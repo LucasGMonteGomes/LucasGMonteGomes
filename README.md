@@ -41,6 +41,13 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<br>
+
+**Minhas Linhas de Código:**
+<div align="center">
+  <img src="https://metrics.lecoq.io/SEU_USUARIO_AQUI?template=classic&base=0&plugin_lines=yes&theme=dracula" alt="Linhas de Código Adicionadas e Removidas" />
+</div>
+
 ---
 
 ## 🔗 Meus Contatos
