@@ -43,7 +43,7 @@ Projects I develop and support:
 
 ## 📊 Lines of code changed
 
-This section shows the total lines added and removed across repositories in the `base` section.
+This section shows repository and history line activity from the Metrics lines plugin.
 
 ![Lines of code changed](https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.lines.svg)
 
