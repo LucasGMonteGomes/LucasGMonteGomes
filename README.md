@@ -21,7 +21,7 @@ Sou um desenvolvedor apaixonado por criar soluções robustas e escaláveis. Com
 Aqui estão as principais tecnologias que utilizo no meu dia a dia:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,rust,kubernetes,kafka,terraform,gcp,linux,nginx,jenkins" alt="Minhas Skills" />
+  <img src="https://skillicons.dev/icons?i=kotlin,rust,kubernetes,kafka,terraform,gcp,linux,nginx,jenkins,ansible,bash,vim" alt="Minhas Skills" />
 </div>
 
 <br>
