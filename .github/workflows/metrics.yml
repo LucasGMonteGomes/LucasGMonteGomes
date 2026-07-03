@@ -26,3 +26,15 @@ jobs:
           plugin_lines_sections: repositories, history
           plugin_lines_repositories_limit: 4
           plugin_lines_history_limit: 1
+
+  traffic:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate traffic metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.traffic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_traffic: yes
+          plugin_traffic_skipped: ""
