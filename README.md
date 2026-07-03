@@ -28,6 +28,8 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia:
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ---
 
 ## 📊 Minhas Estatísticas do GitHub
