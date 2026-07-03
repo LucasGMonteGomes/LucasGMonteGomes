@@ -38,6 +38,15 @@ Projects I develop and support:
 
 - **[Core Engine-Ignis](https://github.com/seu-usuario/krd-division)** – Infrastructure engine used by products licensed by KRD.
 - **[Tabellarii e-mail](https://github.com/seu-usuario/eduplay)** – Efficient email sending system—Core Engine client.
+
+---
+
+## 📊 Lines of code changed
+
+This section shows the total lines added and removed across repositories in the `base` section.
+
+![Lines of code changed](https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.lines.svg)
+
 ---
 
 <div align="center">
