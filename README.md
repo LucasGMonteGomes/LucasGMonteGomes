@@ -56,3 +56,7 @@ This section shows the total lines added and removed across repositories in the 
 </div>
 
 ---
+
+## License
+
+This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
