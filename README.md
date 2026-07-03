@@ -41,10 +41,7 @@ Projects I develop and support:
 
 ---
 
-![Lines of code changed](https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.lines.svg)
-
----
-
+![Lines of code changed](https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.lines.svg) 
 ![Repository traffic](https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.traffic.svg)
 
 ---
