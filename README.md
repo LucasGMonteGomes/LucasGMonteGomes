@@ -41,8 +41,16 @@ Projects I develop and support:
 
 ---
 
-![Lines of code changed](https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.lines.svg) 
-![Repository traffic](https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.traffic.svg)
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.lines.svg" alt="Lines of code changed" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.traffic.svg" alt="Repository traffic" />
+    </td>
+  </tr>
+</table>
 
 ---
 
