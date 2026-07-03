@@ -13,10 +13,10 @@ I seek to gain knowledge so that I can share my ideas with the world.
 I am currently one of the leaders of the KRD (Kraken Research & Development) development team, working on solutions and technologies that will one day shape the future.
 #developmentcannotstop 
 
-- 🔭 **Currently working on:** KRD’s Core Engine and ecosystem.
-- 🌱 **Learning:** Rust, advanced messaging (Kafka, RabbitMQ), and DevOps best practices.
-- 💬 **Ask me about:** Java, Kotlin, Rust, microservices, Kubernetes, the cloud (GCP/AWS), databases, and automation.
-- 📫 **Contact:** [lucasgabrieldomontegomes@gmail.com](mailto:lucasgabrieldomontegomes@gmail.com)
+- **Currently working on:** KRD’s Core Engine and ecosystem.
+- **Learning:** Rust, advanced messaging (Kafka, RabbitMQ), and DevOps best practices.
+- **Ask me about:** Java, Kotlin, Rust, microservices, Kubernetes, the cloud (GCP/AWS), databases, and automation.
+- **Contact:** [lucasgabrieldomontegomes@gmail.com](mailto:lucasgabrieldomontegomes@gmail.com)
 
 ---
 
