@@ -8,7 +8,7 @@
 
 Sou um desenvolvedor apaixonado por criar soluções robustas e escaláveis. Como uma verdadeira "Solução para aplicação Java", gosto de resolver problemas complexos e construir APIs eficientes.
 
-* 🔭 Atualmente trabalhando em **[Nome do seu projeto ou empresa]**
+* 🔭 Atualmente trabalhando na Kraken Research and Development Division KRD
 * 🌱 Atualmente aprendendo **[Ex: Microsserviços, Mensageria, Cloud]**
 * 💬 Pergunte-me sobre **Java, Spring Boot, APIs REST, Banco de Dados**
 * 📫 Como chegar até mim: **[Seu Email ou LinkedIn]**
