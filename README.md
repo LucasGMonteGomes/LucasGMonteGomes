@@ -45,10 +45,6 @@ Projects I develop and support:
 
 ---
 
-## 📈 Repository traffic
-
-This section shows page views across affiliated repositories.
-
 ![Repository traffic](https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.traffic.svg)
 
 ---
