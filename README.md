@@ -1,59 +1,49 @@
-<h1 align="center">Olá! Eu sou o [Seu Nome] 👋</h1>
-
-<h3 align="center">Desenvolvedor Especialista em Java e Tecnologias Cloud</h3>
-
----
-
-## 👨‍💻 Sobre Mim
-
-Sou um desenvolvedor apaixonado por criar soluções robustas e escaláveis. Como uma verdadeira "Solução para aplicação Java", gosto de resolver problemas complexos e construir sistemas eficientes.
-
-* 🔭 Atualmente trabalhando em **[Nome do seu projeto ou empresa]**
-* 🌱 Atualmente aprendendo **[Ex: Rust, Mensageria Avançada, Cloud]**
-* 💬 Pergunte-me sobre **Kotlin, Rust, DevOps, Banco de Dados**
-* 📫 Como chegar até mim: **[Seu Email ou LinkedIn]**
-* ⚡ Curiosidade: **[Insira um hobby ou curiosidade sobre você]**
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-Aqui estão as principais tecnologias que utilizo no meu dia a dia:
+<h1 align="center">Hello! I'm Lucas G. Monte Gomes </h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,rust,kubernetes,kafka,terraform,gcp,linux,nginx,jenkins,ansible,bash,vim" alt="Minhas Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=2000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+and+Cloud+Technologies+Specialist;Founder+and+Developer+at+KRD+(Kraken+Research+%26+Development)" alt="Typing SVG" />
 </div>
 
-<br>
+---
 
-**Ferramentas de Teste:**
+## 👨‍💻 About Me
+
+I seek to gain knowledge so that I can share my ideas with the world.
+
+I am currently one of the leaders of the KRD (Kraken Research & Development) development team, working on solutions and technologies that will one day shape the future.
+#developmentcannotstop 
+
+- 🔭 **Currently working on:** KRD’s Core Engine and ecosystem.
+- 🌱 **Learning:** Rust, advanced messaging (Kafka, RabbitMQ), and DevOps best practices.
+- 💬 **Ask me about:** Java, Kotlin, Rust, microservices, Kubernetes, the cloud (GCP/AWS), databases, and automation.
+- 📫 **Contact:** [lucasgabrieldomontegomes@gmail.com](mailto:lucasgabrieldomontegomes@gmail.com)
+
+---
+
+## 🛠️ Technologies and Tools
+
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,rust,java,spring,kubernetes,docker,terraform,jenkins,ansible,nginx,linux,bash,kafka,rabbitmq,idea,git,github,postman" alt="Technologies and Tools" />
+  <br><br>
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" />
-  <img src="https://img.shields.io/badge/Mockito-8BC34A?style=for-the-badge" alt="Mockito" />
+  <img src="https://img.shields.io/badge/Mockito-8BC34A?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito" />
+  <img src="https://img.shields.io/badge/Testcontainers-1E6B3B?style=for-the-badge&logo=testcontainers&logoColor=white" alt="Testcontainers" />
 </div>
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
+## 🚀 Featured Projects
+
+Projects I develop and support:
+
+- **[Core Engine-Ignis](https://github.com/seu-usuario/krd-division)** – Infrastructure engine used by products licensed by KRD.
+- **[Tabellarii e-mail](https://github.com/seu-usuario/eduplay)** – Efficient email sending system—Core Engine client.
+---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<br>
-
-**Minhas Linhas de Código:**
-<div align="center">
-  <img src="https://metrics.lecoq.io/SEU_USUARIO_AQUI?template=classic&base=0&plugin_lines=yes&theme=dracula" alt="Linhas de Código Adicionadas e Removidas" />
+  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:lucasgabrieldomontegomes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/LucasGMonteGomes" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 ---
-
-## 🔗 Meus Contatos
-
-<div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-  </a>
-</div>
