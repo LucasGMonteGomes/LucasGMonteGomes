@@ -54,10 +54,6 @@ Projects I develop and support:
 
 ---
 
-## 🧠 Languages recently used
-
-This section shows the languages from recent activity.
-
 ![Languages recently used](https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.languages.recent.svg)
 
 ---
