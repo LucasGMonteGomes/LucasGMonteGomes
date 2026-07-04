@@ -28,6 +28,7 @@ I am currently one of the leaders of the KRD (Kraken Research & Development) dev
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" />
   <img src="https://img.shields.io/badge/Mockito-8BC34A?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito" />
   <img src="https://img.shields.io/badge/Testcontainers-1E6B3B?style=for-the-badge&logo=testcontainers&logoColor=white" alt="Testcontainers" />
+  <img src="https://img.shields.io/badge/MetalLB-326CE5?style=for-the-badge" alt="MetalLB" />
 </div>
 
 ---
