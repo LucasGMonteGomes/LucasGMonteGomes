@@ -47,14 +47,10 @@ Projects I develop and support:
       <img src="https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.lines.svg" alt="Lines of code changed" width="100%" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.traffic.svg" alt="Repository traffic" width="100%" />
+      <img src="https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.svg" alt="Metrics" width="100%" />
     </td>
   </tr>
 </table>
-
----
-
-![Languages recently used](https://raw.githubusercontent.com/LucasGMonteGomes/LucasGMonteGomes/main/metrics.plugin.languages.recent.svg)
 
 ---
 
