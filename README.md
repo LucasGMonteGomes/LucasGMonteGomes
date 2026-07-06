@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Lucas G. Monte Gomes </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=2000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+and+Cloud+Technologies+Specialist;Founder+and+Developer+at+KRD+(Kraken+Research+%26+Development)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=2000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+and+Cloud+Technologies+Specialist;Founder+and+Developer+at+KRD+(Kraken+Research+%26+Development)+Division" alt="Typing SVG" />
 </div>
 
 ---
