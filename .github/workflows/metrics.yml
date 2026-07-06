@@ -23,6 +23,8 @@ jobs:
           plugin_lines_sections: repositories, history
           plugin_lines_repositories_limit: 4
           plugin_lines_history_limit: 1
+          committer_message: "Atualiza métricas automáticas"
+          committer_branch: main
 
   github-metrics:
     runs-on: ubuntu-latest
