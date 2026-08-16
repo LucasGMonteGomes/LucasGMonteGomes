@@ -6,6 +6,7 @@
 </p>
 
 Co-founder and CTO of TXsoft engineering
+
 Fascinated by developing solutions for the world. Creating technologies that will one day make a difference 
 
 I develop and provide support for KRD's core engine and Tabellarri technologies
