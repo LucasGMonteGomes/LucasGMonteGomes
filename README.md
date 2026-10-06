@@ -11,7 +11,7 @@ Co-founder and developer of [KRD](https://github.com/krakenrd-org)
 
 Fascinated by developing solutions for the world. Creating technologies that will one day make a difference 
 
-I develop and provide support for TXsoft's core engine and KRD technologies
+I develop and provide support for TXsoft's *core engine* and KRD technologies
 
 Tech Stack: `Java` `Rust` 
 
