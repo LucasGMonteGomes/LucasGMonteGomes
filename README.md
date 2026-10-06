@@ -5,12 +5,14 @@
 <a href="mailto:lucasgmontegomes@krakenrddivision.org" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" style="height: 30px; border-radius: 4px; border: 0;"></a>
 </p>
 
-Co-founder and CTO of TXsoft engineering
+Co-founder and CTO of [TXsoft engineering](https://github.com/txsoft-engineering)
+
+Co-founder and developer of [KRD](https://github.com/krakenrd-org)
 
 Fascinated by developing solutions for the world. Creating technologies that will one day make a difference 
 
-I develop and provide support for KRD's core engine and Tabellarri technologies
+I develop and provide support for TXsoft's core engine and KRD technologies
 
-Tech Stack: `Rust` `Go` `Java` 
+Tech Stack: `Java` `Rust` 
 
 > *Virtue does not lie in weakness, but in mastering one's own strength.*
