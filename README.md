@@ -3,6 +3,7 @@
 <p style="display: flex; align-items: center; gap: 50px;">
   <a href="https://x.com/LucasMonteGomes" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Logo" style="height: 30px; border-radius: 4px; border: 0;"></a> 
 <a href="mailto:lucasgmontegomes@krakenrddivision.org" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" style="height: 30px; border-radius: 4px; border: 0;"></a>
+<a href="https://orcid.org/0009-0001-9668-8182" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Logo" style="height: 30px; border-radius: 4px; border: 0;"></a>
 </p>
 
 Co-founder and CTO of [TXsoft engineering](https://github.com/txsoft-engineering)
