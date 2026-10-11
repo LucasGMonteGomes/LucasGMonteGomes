@@ -6,7 +6,9 @@
 <a href="https://orcid.org/0009-0001-9668-8182" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Logo" style="height: 30px; border-radius: 4px; border: 0;"></a>
 </p>
 
-Co-founder and CTO of [TXsoft engineering](https://github.com/txsoft-engineering)
+Co-founder and CTO of [TXsoft Engineering](https://github.com/txsoft-engineering)
+
+Founder and Team Leader of [TXSoft Open-source](https://github.com/txsoft-opensource) 
 
 Co-founder and developer of [KRD](https://github.com/krakenrd-org)
 
